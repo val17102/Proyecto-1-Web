@@ -28,4 +28,4 @@ El proyecto consiste de tratar de hacer una copia de una pagina web existente qu
 Se puede ver el resultado en este [link](http://msdeus.site/17102/Proyecto1/)
 
 ## Creditos
-*Miguel Valle - 17102
+* Miguel Valle - 17102
