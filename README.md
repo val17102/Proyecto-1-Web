@@ -19,9 +19,9 @@ El proyecto consiste de tratar de hacer una copia de una pagina web existente qu
 
 ### Tecnologias Usadas
 
-*React
-*Webpack
-*Babel
+* React
+* Webpack
+* Babel
 
 ## Resultado
 
